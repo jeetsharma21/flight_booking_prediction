@@ -1,0 +1,6 @@
+dep_airport,dep_city,dep_state,dep_country,arr_airport,arr_city,arr_state,arr_country,platform,browser,days_till_dep,num_passengers
+SEA,Seattle,WA,US,LAX,Los Angeles,CA,US,web,Chrome,7,1
+DFW,Dallas,TX,US,LHR,London,,GB,ios,Chrome,151,4
+"JFK,EWR,LGA,HPN",New York City,NY,US,ORD,Chicago,IL,US,web,Safari,0,1
+MNL,Manila,,PH,HKG,Hong Kong,,HK,android,Chrome,3,6
+SFO,San Francisco,CA,US,ATL,Atlanta,GA,US,web,Chrome,39,2
